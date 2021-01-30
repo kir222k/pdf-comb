@@ -50,5 +50,5 @@ input("Press Enter to exit")
 
 print("\nEnd")
 print("\nEnd2")
-print("\nEnd")
+
 # print('\nend2')
